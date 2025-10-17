@@ -11,10 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: לא יכולים לחכות!
+    button: אני רוצה לאשר הגעה!
+    buttonlink: "#contact"
 
   services:
     title: "Services"
@@ -69,9 +68,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "הסיפור שלנו"
+    text: "אז איך הכרנו באמת?"
+    body: "טכנית הכרנו אי שם בגיל 12 בכיתה ז'4 בבית ספר דורות, אבל הכרנו באמת באמת בביקור ספונטני של רוני בחיפה. התכנון היה לבקר את סבתא רחל ואחרי כן להיפגש עם חברים שלומדים בטכניון. המפגש התבטל אבל רוני כבר הייתה בחיפה ורועי הציע להיפגש בכל מקרה. הוא בחר לבשל ניוקי (למרות שלא מצא אספרגוס ונאלץ להתפשר על פטריות) ומשם הדרך את הלב הייתה קצרה. כמובן ששני הצדדים הכחישו כל קשר רומנטי ולימים זה נקרא דייט 0 (בכל זאת, במדעי המחשב לא מתחילים לספור מ-1). לבסוף גם הגיע הדייט הראשון, ומשם- היסטוריה :) "
     section: about
 
   clients:
@@ -130,22 +129,22 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "אישור הגעה"
+    text: "אם יש עדכונים - פשוט תשלחו שוב"
     section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    name: "שם*"
+    name-validation: "חסר שם"
+    email: "כמה תהיו*"
+    email-validation: "אנא מלאו כמה תהיו"
+    phone: "טבעוני/ללא גלוטן/אלרגיה"
+    phone-validation: ""
+    message: "עוד משהו שתרצו לכתוב :)"
+    message-validation: ""
+    subject: "אישור הגעה"
+    submit: "שלחו"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "מדיניות פרטיות"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"
