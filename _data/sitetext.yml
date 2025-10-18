@@ -22,34 +22,47 @@ en: &DEFAULT_EN
     closebutton: "סגור"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "ציר זמן"
+    text: ""
     section: timeline
     start_align: "right"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "הסיפור שלנו מתחיל"
+        year: "01.09.08"
+        desc: "לורם איפסום 1"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "דייט אפס"
+        year: "18.09.19"
+        desc: "לורם איפסום 2"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "דייט ראשון"
+        year: "25.09.19"
+        desc: "לורם איפסום 3"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        alt: 
+      - title: "עוברים לגור ביחד"
+        year: "01.08.21"
+        desc: "לורם איפסום 4"
+        image: assets/img/timeline/4.jpg
+        alt: 
+      - title: "מתארסים"
+        year: "17.09.23"
+        desc: "לורם איפסום 5"
+        image: assets/img/timeline/4.jpg
+        alt: 
+      - title: "מתחתנים בניו יורק"
+        year: "11.08.25"
+        desc: "לורם איפסום 6"
         image: assets/img/timeline/4.jpg
         alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+      - title: "מתחתנים"
+        year: "08.11.25"
+        desc: "לורם איפסום 7"
+        image: assets/img/timeline/4.jpg
+        alt:
+    end: false
 
   about:
     title: "הסיפור שלנו"
