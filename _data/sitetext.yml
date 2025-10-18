@@ -23,7 +23,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "ציר זמן"
-    text: ""
+    text: " "
     section: timeline
     start_align: "right"
     events:
@@ -66,64 +66,28 @@ en: &DEFAULT_EN
 
   about:
     title: "הסיפור שלנו"
-    text: "אז איך הכרנו באמת?"
+    text: ""
     body: "טכנית הכרנו אי שם בגיל 12 בכיתה ז'4 בבית ספר דורות, אבל הכרנו באמת באמת בביקור ספונטני של רוני בחיפה. התכנון היה לבקר את סבתא רחל ואחרי כן להיפגש עם חברים שלומדים בטכניון. המפגש התבטל אבל רוני כבר הייתה בחיפה ורועי הציע להיפגש בכל מקרה. הוא בחר לבשל ניוקי (למרות שלא מצא אספרגוס ונאלץ להתפשר על פטריות) ומשם הדרך את הלב הייתה קצרה. כמובן ששני הצדדים הכחישו כל קשר רומנטי ולימים זה נקרא דייט 0 (בכל זאת, במדעי המחשב לא מתחילים לספור מ-1). לבסוף גם הגיע הדייט הראשון, ומשם- היסטוריה :) "
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "צוות המייסדים"
+    text: "שהביאנו עד הלום :)"
+    subtext: ""
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "נילי"
+        role: "אם הכלה"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "רפי"
+        role: "אב הכלה"
         image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "שושי"
+        role: "אם החתן"
         image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      - name: "משה"
+        role: "אב החתן"
+        image: assets/img/team/500x500.jpg
 
   contact:
     title: "אישור הגעה"
