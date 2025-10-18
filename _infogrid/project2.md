@@ -1,11 +1,11 @@
 ---
 title: הזמנה
 subtitle: ""
-image: assets/img/portfolio/02-full.jpg
+image: assets/img/infogrid/invite.jpeg
 alt: הזמנה
 
 caption:
   title: הזמנה
   subtitle: ""
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  thumbnail: assets/img/infogrid/500x500.jpg
 ---

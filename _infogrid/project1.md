@@ -1,13 +1,13 @@
 ---
 title: לו"ז האירוע
 subtitle: ""
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/infogrid/500x500.jpg
 alt: לו"ז
 
 caption:
   title: לו"ז
   subtitle: ""
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  thumbnail: assets/img/infogrid/500x500.jpg
 ---
 
 

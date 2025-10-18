@@ -1,0 +1,35 @@
+// Styling for the team section
+section#team {
+  .team-member {
+    margin-bottom: 50px;
+    text-align: center;
+    img {
+      width: 175px;
+      height: 175px;
+      border: 5px solid fade-out($black, 0.9);
+      object-fit: cover;
+      object-position: center center;
+    }
+    h4 {
+      margin-top: 25px;
+      margin-bottom: 0;
+      text-transform: none;
+    }
+    p {
+      margin-top: 0;
+    }
+  }
+
+  div:nth-child(1)>.team-member>img {
+    object-view-box: inset(18% 12% 6% 12%);
+  }
+  div:nth-child(2)>.team-member>img { 
+    object-view-box: inset(18% 14% 12% 16%);
+  }
+  div:nth-child(3)>.team-member>img {
+    object-view-box: inset(23.5% 45.5% 56.5% 34.5%);
+  }
+  div:nth-child(4)>.team-member>img {
+    object-view-box: inset(0% 4% 10% 0%);
+  }
+}

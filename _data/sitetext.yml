@@ -29,38 +29,38 @@ en: &DEFAULT_EN
     events:
       - title: "הסיפור שלנו מתחיל"
         year: "01.09.08"
-        desc: "לורם איפסום 1"
-        image: assets/img/timeline/1.jpg
+        desc: "ומי יודע איך יסתיים"
+        image: assets/img/timeline/500x500.jpg
         alt:
       - title: "דייט אפס"
         year: "18.09.19"
-        desc: "לורם איפסום 2"
-        image: assets/img/timeline/2.jpg
+        desc: "לפעמים צריך קצת בלת\"מים בחיים"
+        image: assets/img/timeline/gnocchi.jpg
         alt:
       - title: "דייט ראשון"
         year: "25.09.19"
-        desc: "לורם איפסום 3"
-        image: assets/img/timeline/3.jpg
+        desc: "מסתבר שגם דייט במסעדה של תחנת דלק עושה את העבודה"
+        image: assets/img/timeline/date1.jpg
         alt: 
       - title: "עוברים לגור ביחד"
         year: "01.08.21"
-        desc: "לורם איפסום 4"
-        image: assets/img/timeline/4.jpg
+        desc: "מונקק מצטרף למשפחה"
+        image: assets/img/timeline/500x500.jpg
         alt: 
       - title: "מתארסים"
         year: "17.09.23"
-        desc: "לורם איפסום 5"
-        image: assets/img/timeline/4.jpg
+        desc: "מרכז תל אביב בלי תיווך עם חניה- יותר טוב מלזכות בלוטו"
+        image: assets/img/timeline/500x500.jpg
         alt: 
       - title: "מתחתנים בניו יורק"
         year: "11.08.25"
-        desc: "לורם איפסום 6"
-        image: assets/img/timeline/4.jpg
+        desc: "לורם איפסום 1"
+        image: assets/img/timeline/ny.jpeg
         alt:
       - title: "מתחתנים"
         year: "08.11.25"
-        desc: "לורם איפסום 7"
-        image: assets/img/timeline/4.jpg
+        desc: "לורם איפסום 2"
+        image: assets/img/timeline/500x500.jpg
         alt:
     end: false
 
@@ -78,16 +78,16 @@ en: &DEFAULT_EN
     people:
       - name: "נילי"
         role: "אם הכלה"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/nili.jpeg
       - name: "רפי"
         role: "אב הכלה"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/rafi.jpeg
       - name: "שושי"
         role: "אם החתן"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shoshi.jpeg
       - name: "משה"
         role: "אב החתן"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/moshe.jpeg
 
   contact:
     title: "אישור הגעה"

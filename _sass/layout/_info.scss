@@ -6,7 +6,8 @@
     .info-link {
       position: relative;
       display: block;
-      max-width: 400px;
+      max-width: 300px;
+      max-height: 300px;
       margin: 0 auto;
       cursor: pointer;
       .info-hover {
@@ -41,7 +42,7 @@
       }
     }
     .info-caption {
-      max-width: 400px;
+      max-width: 300px;
       margin: 0 auto;
       padding: 25px;
       text-align: center;
