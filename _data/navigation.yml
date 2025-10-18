@@ -11,19 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
-      section: services
-    - title: "Portfolio"
-      section: portfolio
-    - title: "About"
+    - title: "מידע שימושי"
+      section: info
+    - title: "הסיפור שלנו"
       section: about
-    - title: "Timeline"
+    - title: "ציר זמן"
       section: timeline
-    - title: "Team"
+    - title: "צוות המייסדים"
       section: team
-    - title: "Contact"
+    - title: "אישור הגעה"
       section: contact
-    - title: "Theme Source"
+    - title: "תמונות מהאירוע"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
